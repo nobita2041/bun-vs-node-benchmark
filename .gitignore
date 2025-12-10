@@ -1,0 +1,5 @@
+node_modules/
+bench-files/
+bench-parallel/
+test-output.txt
+*.db
