@@ -1,0 +1,10 @@
+{
+  "name": "test-benchmark",
+  "scripts": {
+    "test:jest": "jest",
+    "test:bun": "bun test"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
